@@ -1,0 +1,11 @@
+{
+  "name": "dsg-order-tracker",
+  "version": "1.0.0",
+  "description": "Simple order tracker for Dicks Sporting Goods",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rav3N#1509",
+  "license": "ISC"
+}
